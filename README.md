@@ -52,13 +52,7 @@
 
 ## 🖼️ Aperçu
 
-![Dashboard – performance globale](images/page1.png)
-
-| Ventes par catégorie et localisation | Performance et comportement des clients |
-|---|---|
-| ![](images/page2.png) | ![](images/page3.png) |
-
-📄 [Dashboard complet en PDF](dashboard/dashboard.pdf)
+📄 **[Voir le dashboard complet en PDF (4 pages)](dashboard/dashboard.pdf)**
 
 ## 📁 Structure du dépôt
 
@@ -66,7 +60,6 @@
 supermarket-sales-analyse-powerbi/
 ├── dashboard/   # supermarket.pbix + dashboard.pdf
 ├── data/        # supermarket_sales.xlsx + supermarket_sales.csv
-├── images/      # captures du dashboard
 ├── documentation/ # cadrage du projet (README-projet.docx)
 └── README.md
 ```
