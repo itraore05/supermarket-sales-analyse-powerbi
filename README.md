@@ -52,21 +52,15 @@
 
 ## 🖼️ Aperçu
 
-![Dashboard – performance globale](images/page1.png)
-
-| Ventes | Clients |
-|---|---|
-| ![](images/page2.png) | ![](images/page3.png) |
-
-📄 [Dashboard complet en PDF](dashboard/dashboard.pdf)
+📄 [Consulter le dashboard complet en PDF](dashboard/dashboard.pdf)
 
 ## 📁 Structure du dépôt
 
 ```
 supermarket-sales-analyse-powerbi/
-├── dashboard/   # supermarket.pbix + dashboard.pdf
-├── data/        # supermarket_sales.xlsx + supermarket_sales.csv
-├── images/      # captures du dashboard
+├── dashboard/      # dashboard Power BI et export PDF
+├── data/           # données aux formats Excel et CSV
+├── documentation/  # document de présentation du projet
 └── README.md
 ```
 
@@ -75,6 +69,7 @@ supermarket-sales-analyse-powerbi/
 | Dashboard Power BI | [`supermarket.pbix`](dashboard/supermarket.pbix) |
 | Dashboard (PDF) | [`dashboard.pdf`](dashboard/dashboard.pdf) |
 | Données | [Excel](data/supermarket_sales.xlsx) · [CSV](data/supermarket_sales.csv) |
+| Présentation du projet | [`README-projet.docx`](documentation/README-projet.docx) |
 
 > ℹ️ Les données proviennent d'un jeu de données public. L'habillage visuel du dashboard est utilisé à titre illustratif ; ce projet n'est affilié à aucune enseigne.
 
